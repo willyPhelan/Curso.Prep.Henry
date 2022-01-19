@@ -1,0 +1,35 @@
+TAREA TEORICA 
+
+DEFINE IF: 
+If es un expresion dentro de Javascript que nos permite realizar tareas repetitivas que, 
+en caso de hacerlo manualmente, nos llevarian una gran cantidad de tiempo o nos resultarian
+imposibles (Un ejemplo seria si nos piden imprimir todos los numeros del 1 al 10000). 
+Para utilizar IF es necesario: 
+Primero, establecer una variable, luego estableceremos una condicion (Mientras que la 
+condicion que hayamos brindado permanesca siendo verdadera, el codigo continuara ejecutandose, pero cuando la 
+condicion pase a ser falsa el codigo dejara de correr) y por ultimo debemos establecer la incrementacion 
+de la variable que se escribe con el codigo I++ 
+
+DEFINE && , || , !
+
+Para poder combinar expresiones de igualdad y determinar cual de ellas es verdadera o falsa con respecto a un valor,
+se utilizan los Operadores Logicos, los tres operadores logicos en Javascript son, 
+
+AND // 'Y' : 
+
+Este operador se expresa como && y evaluara las expresiones dadas arrojando un resultado verdadero unicamente
+si todos los argumentos son verdaderos. Mientras que, en caso de que alguno sea Falso el operador arrojara
+como resultado falso. 
+
+OR // 'O' :
+
+Este operador se expresa mediante dos barras verticales || y mientras que uno o ambos argumentos resulten verdaderos
+arrojara como resultado verdadero. 
+
+
+NOT // NOT : 
+
+Se expresa con un signo de exclamacion ! y es utilizado como una negacion. 
+El operador NOT determina que la expresion que se encuentra luego del operador ! es lo contrario a lo escrito, 
+es decir a expresar !(2===2) El operador esta indicando de 2 NO es igual a 2. En este caso el resultado de la 
+opeacion arrojaria Falso (Ya que 2 SI es igual a 2)
